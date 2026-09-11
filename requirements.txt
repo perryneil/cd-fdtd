@@ -1,0 +1,13 @@
+# Core scientific stack
+numpy>=1.24
+scipy>=1.10
+
+# The FDTD solver.  A Tidy3D account and API key are needed only to
+# estimate cost or to run simulations; everything else in this project
+# works offline.
+#   pip install tidy3d
+#   tidy3d configure          # paste your API key once
+tidy3d>=2.9
+
+# Optional, for plotting the studies yourself
+matplotlib>=3.7

@@ -1,0 +1,19 @@
+# Raw Tidy3D field files (tens of GB, available on request)
+*.hdf5
+# Python
+__pycache__/
+*.pyc
+.venv/
+.venv-win/
+# LaTeX build products
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+# OS files
+.DS_Store
+._*
+Thumbs.db
