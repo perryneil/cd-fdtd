@@ -1,0 +1,402 @@
+[
+  {
+    "seed": 2104521678,
+    "resonance_um": 0.8467246651123123,
+    "fwhm_um": 0.1516971906077621,
+    "mean_index_local": 1.3460485732435754,
+    "mean_index_box": 1.3500545459389401,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1615704261,
+    "resonance_um": 0.8474799067752732,
+    "fwhm_um": 0.15238806813066796,
+    "mean_index_local": 1.3560880232353985,
+    "mean_index_box": 1.3501919625543666,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 658306638,
+    "resonance_um": 0.846030185013862,
+    "fwhm_um": 0.14775973700100098,
+    "mean_index_local": 1.3483490281537824,
+    "mean_index_box": 1.349722131529157,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1072945168,
+    "resonance_um": 0.8467400982370673,
+    "fwhm_um": 0.15402572858524533,
+    "mean_index_local": 1.341048784793948,
+    "mean_index_box": 1.350056178948035,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1164543749,
+    "resonance_um": 0.8479341908384602,
+    "fwhm_um": 0.1503452176876664,
+    "mean_index_local": 1.3546508717063452,
+    "mean_index_box": 1.3499862700398086,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 921901717,
+    "resonance_um": 0.8454757355125082,
+    "fwhm_um": 0.15147540083774302,
+    "mean_index_local": 1.3467856077102807,
+    "mean_index_box": 1.3498899208418798,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1704430933,
+    "resonance_um": 0.8474092941028769,
+    "fwhm_um": 0.15138281793281338,
+    "mean_index_local": 1.3494137889939102,
+    "mean_index_box": 1.3499167837596726,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 965106114,
+    "resonance_um": 0.8492155550712667,
+    "fwhm_um": 0.14838266303766767,
+    "mean_index_local": 1.3558632067863605,
+    "mean_index_box": 1.3499770664931936,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 687729598,
+    "resonance_um": 0.8480106765163102,
+    "fwhm_um": 0.15103265954473777,
+    "mean_index_local": 1.3558441473814977,
+    "mean_index_box": 1.3499695602924786,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 78595689,
+    "resonance_um": 0.8479795701398019,
+    "fwhm_um": 0.14864696534356414,
+    "mean_index_local": 1.3573797316583995,
+    "mean_index_box": 1.3502593776296725,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 829314815,
+    "resonance_um": 0.8487055933080387,
+    "fwhm_um": 0.14873046768510967,
+    "mean_index_local": 1.3593298154462623,
+    "mean_index_box": 1.3501982989588222,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 243243636,
+    "resonance_um": 0.8472397118984464,
+    "fwhm_um": 0.15285401044835512,
+    "mean_index_local": 1.344900322208244,
+    "mean_index_box": 1.3499239305319628,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 834274627,
+    "resonance_um": 0.846249720906388,
+    "fwhm_um": 0.14770974706634332,
+    "mean_index_local": 1.34319906768527,
+    "mean_index_box": 1.3500491629379079,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1657271367,
+    "resonance_um": 0.8479647832561351,
+    "fwhm_um": 0.14926666089426943,
+    "mean_index_local": 1.3588081455012282,
+    "mean_index_box": 1.3498276231693667,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1622299939,
+    "resonance_um": 0.8474178116943675,
+    "fwhm_um": 0.15319182127091568,
+    "mean_index_local": 1.3516042565172177,
+    "mean_index_box": 1.3499638978631638,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1955768060,
+    "resonance_um": 0.8466378339540628,
+    "fwhm_um": 0.14699577576357048,
+    "mean_index_local": 1.3443460895925072,
+    "mean_index_box": 1.3497282168295734,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 2129507801,
+    "resonance_um": 0.8471398037482236,
+    "fwhm_um": 0.14982366512717626,
+    "mean_index_local": 1.344560614396527,
+    "mean_index_box": 1.350138301985436,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1911659420,
+    "resonance_um": 0.8477363792892838,
+    "fwhm_um": 0.14780825893224336,
+    "mean_index_local": 1.3535193773403917,
+    "mean_index_box": 1.3500644076284443,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1474364817,
+    "resonance_um": 0.846624910753608,
+    "fwhm_um": 0.14829461786810172,
+    "mean_index_local": 1.3483458197936977,
+    "mean_index_box": 1.3499819234153372,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 341611586,
+    "resonance_um": 0.8474326545065659,
+    "fwhm_um": 0.15266749581653394,
+    "mean_index_local": 1.3531078716981781,
+    "mean_index_box": 1.3499522281394043,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 953025717,
+    "resonance_um": 0.8470745840692141,
+    "fwhm_um": 0.15261015122403088,
+    "mean_index_local": 1.3485785546076627,
+    "mean_index_box": 1.350060497130544,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 2055734281,
+    "resonance_um": 0.8471927356368542,
+    "fwhm_um": 0.15275559967746621,
+    "mean_index_local": 1.3498654588541539,
+    "mean_index_box": 1.3500628368969583,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 308025863,
+    "resonance_um": 0.8468830255884101,
+    "fwhm_um": 0.15056138848195788,
+    "mean_index_local": 1.3491423829762006,
+    "mean_index_box": 1.349957274790295,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 302511912,
+    "resonance_um": 0.8465877714946708,
+    "fwhm_um": 0.14628081509825897,
+    "mean_index_local": 1.3491816224271793,
+    "mean_index_box": 1.3501873694140085,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1102026130,
+    "resonance_um": 0.8468147173239523,
+    "fwhm_um": 0.14978577420408912,
+    "mean_index_local": 1.3484082056466764,
+    "mean_index_box": 1.3498716480933746,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1038584456,
+    "resonance_um": 0.8464140269565734,
+    "fwhm_um": 0.14955490815719352,
+    "mean_index_local": 1.3449421096169385,
+    "mean_index_box": 1.3499985819608067,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1282350959,
+    "resonance_um": 0.8459110656206192,
+    "fwhm_um": 0.14910539549130564,
+    "mean_index_local": 1.3460741441454516,
+    "mean_index_box": 1.350164935060389,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 975357208,
+    "resonance_um": 0.8465524489165778,
+    "fwhm_um": 0.1516337099017544,
+    "mean_index_local": 1.3533987108033179,
+    "mean_index_box": 1.3502750938277925,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 2033995946,
+    "resonance_um": 0.8479485503107799,
+    "fwhm_um": 0.14966241793751256,
+    "mean_index_local": 1.3567501438995766,
+    "mean_index_box": 1.3501108087672107,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1348250059,
+    "resonance_um": 0.8461710774719088,
+    "fwhm_um": 0.15009425036580315,
+    "mean_index_local": 1.341228523212998,
+    "mean_index_box": 1.350023692601258,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1712606600,
+    "resonance_um": 0.8464477417090865,
+    "fwhm_um": 0.1500817476584856,
+    "mean_index_local": 1.3468955738026058,
+    "mean_index_box": 1.349775036636281,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 541157253,
+    "resonance_um": 0.8481098298141013,
+    "fwhm_um": 0.1473350517979456,
+    "mean_index_local": 1.351856999493144,
+    "mean_index_box": 1.3501197581670736,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 41616569,
+    "resonance_um": 0.8465864284588748,
+    "fwhm_um": 0.1515470589887684,
+    "mean_index_local": 1.3473729346462493,
+    "mean_index_box": 1.3502584273246365,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1407193933,
+    "resonance_um": 0.8465288255698646,
+    "fwhm_um": 0.15022789111902746,
+    "mean_index_local": 1.3469192923525888,
+    "mean_index_box": 1.3498529154798193,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 836681230,
+    "resonance_um": NaN,
+    "fwhm_um": NaN,
+    "mean_index_local": 1.344057370388524,
+    "mean_index_box": 1.3498250816141606,
+    "decay_ok": false,
+    "fit_ok": false,
+    "note": "No internet connection: giving up on connection waiting."
+  },
+  {
+    "seed": 1651767914,
+    "resonance_um": NaN,
+    "fwhm_um": NaN,
+    "mean_index_local": 1.3521875709738524,
+    "mean_index_box": 1.3500507157912498,
+    "decay_ok": false,
+    "fit_ok": false,
+    "note": "No internet connection: giving up on connection waiting."
+  },
+  {
+    "seed": 1225871378,
+    "resonance_um": NaN,
+    "fwhm_um": NaN,
+    "mean_index_local": 1.345280717207912,
+    "mean_index_box": 1.3498345455107092,
+    "decay_ok": false,
+    "fit_ok": false,
+    "note": "No internet connection: giving up on connection waiting."
+  },
+  {
+    "seed": 1666341041,
+    "resonance_um": NaN,
+    "fwhm_um": NaN,
+    "mean_index_local": 1.3424339823840872,
+    "mean_index_box": 1.3498206221030433,
+    "decay_ok": false,
+    "fit_ok": false,
+    "note": "No internet connection: giving up on connection waiting."
+  },
+  {
+    "seed": 882906600,
+    "resonance_um": NaN,
+    "fwhm_um": NaN,
+    "mean_index_local": 1.3508561474857672,
+    "mean_index_box": 1.3501881922893655,
+    "decay_ok": false,
+    "fit_ok": false,
+    "note": "No internet connection: giving up on connection waiting."
+  },
+  {
+    "seed": 450858847,
+    "resonance_um": NaN,
+    "fwhm_um": NaN,
+    "mean_index_local": 1.35276160263102,
+    "mean_index_box": 1.350141775632202,
+    "decay_ok": false,
+    "fit_ok": false,
+    "note": "No internet connection: giving up on connection waiting."
+  }
+]

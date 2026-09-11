@@ -1,0 +1,87 @@
+[
+  {
+    "axis": "x",
+    "offset_um": 0.0,
+    "resonance_nm": 847.1898849466077
+  },
+  {
+    "axis": "x",
+    "offset_um": 0.25,
+    "resonance_nm": 849.8316203855
+  },
+  {
+    "axis": "x",
+    "offset_um": 0.5,
+    "resonance_nm": 849.6578938105135
+  },
+  {
+    "axis": "x",
+    "offset_um": 1.0,
+    "resonance_nm": 846.3457226057969
+  },
+  {
+    "axis": "x",
+    "offset_um": 2.0,
+    "resonance_nm": 852.6009476820705
+  },
+  {
+    "axis": "x",
+    "offset_um": 3.0,
+    "resonance_nm": 848.4784310218773
+  },
+  {
+    "axis": "x",
+    "offset_um": 4.0,
+    "resonance_nm": 851.0502620518608
+  },
+  {
+    "axis": "x",
+    "offset_um": 6.0,
+    "resonance_nm": 851.5476538269784
+  },
+  {
+    "axis": "x",
+    "offset_um": 8.0,
+    "resonance_nm": 851.5139776163073
+  },
+  {
+    "axis": "y",
+    "offset_um": 0.25,
+    "resonance_nm": 850.0104460686208
+  },
+  {
+    "axis": "y",
+    "offset_um": 0.5,
+    "resonance_nm": 850.6777168686283
+  },
+  {
+    "axis": "y",
+    "offset_um": 1.0,
+    "resonance_nm": 850.0235708035424
+  },
+  {
+    "axis": "y",
+    "offset_um": 2.0,
+    "resonance_nm": 847.5836953369372
+  },
+  {
+    "axis": "y",
+    "offset_um": 3.0,
+    "resonance_nm": 850.5498345931122
+  },
+  {
+    "axis": "y",
+    "offset_um": 4.0,
+    "resonance_nm": 850.2551936724075
+  },
+  {
+    "axis": "y",
+    "offset_um": 6.0,
+    "resonance_nm": 851.3120830328029
+  },
+  {
+    "axis": "y",
+    "offset_um": 8.0,
+    "resonance_nm": 846.3582478184414
+  }
+]

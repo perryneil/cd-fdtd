@@ -1,0 +1,114 @@
+{
+  "tissue": {
+    "n0": 1.35,
+    "delta_n_sq": 9.937494340587405e-05,
+    "l_c_um": 1.6447891036749736,
+    "m": 1.35,
+    "l_min_um": 0.03,
+    "n_clip_min": 1.3,
+    "n_clip_max": 1.55,
+    "anisotropy_xyz": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "mu_a_per_um": 2e-05
+  },
+  "calibration": {
+    "target_mu_s_per_um": 0.005,
+    "target_mu_s_prime_per_um": 0.0006,
+    "target_g": 0.93,
+    "calib_wavelength_um": 0.8,
+    "band_um": [
+      0.5,
+      0.9
+    ],
+    "fit_bounds_delta_n_sq": [
+      1e-06,
+      0.01
+    ],
+    "fit_bounds_l_c_um": [
+      0.02,
+      5.0
+    ]
+  },
+  "bowtie": {
+    "side_nm": 120.0,
+    "gap_nm": 20.0,
+    "thickness_nm": 40.0,
+    "tip_radius_nm": 5.0,
+    "apex_angle_deg": 60.0,
+    "substrate_index": 1.46
+  },
+  "surface": {
+    "recognition_thickness_nm": 3.0,
+    "recognition_n_unbound": 1.453,
+    "recognition_n_bound": 1.4543,
+    "fouling_thickness_nm": 4.0,
+    "fouling_n": 1.45,
+    "analyte_hydrodynamic_radius_nm": 0.6,
+    "binding_site_density_per_nm2": 0.04
+  },
+  "fdtd": {
+    "domain_um": [
+      5.0,
+      5.0,
+      2.5
+    ],
+    "dl_gap_nm": 2.0,
+    "dl_metal_nm": 4.0,
+    "min_steps_per_wavelength": 20,
+    "tissue_voxel_nm": 10.0,
+    "taper_width_um": 0.4,
+    "source": "planewave",
+    "absorber_layers": 20,
+    "boundary": "absorber",
+    "run_time_ps": 0.5,
+    "expected_q": 20.0,
+    "shutoff": 1e-07,
+    "freq_points": 301,
+    "symmetry": [
+      0,
+      0,
+      0
+    ],
+    "mesh_study_dl_nm": [
+      4.0,
+      2.0,
+      1.0
+    ],
+    "mesh_study_domain_um": [
+      3.0,
+      3.0,
+      2.0
+    ]
+  },
+  "ensemble": {
+    "n_seeds": 40,
+    "bootstrap_resamples": 5000,
+    "base_seed": 20260825,
+    "regress_out_mean_index": true
+  },
+  "regulatory": {
+    "eu_limit_mg_per_kg": 0.05,
+    "tissue_density_kg_per_m3": 1050.0,
+    "langmuir_K_per_M": 29000000.0,
+    "free_fraction": 0.84,
+    "free_fraction_direct_contact": 0.001,
+    "free_fraction_direct_contact_range": [
+      1e-09,
+      0.001
+    ],
+    "measurement_time_s": 60.0,
+    "diffusion_coeff_um2_per_s": 500.0
+  },
+  "budget": {
+    "flexcredits": 50.0,
+    "contingency": 1.15
+  },
+  "transduction": {
+    "bulk_sensitivity_nm_per_riu": 250.0,
+    "mode_overlap": 0.15,
+    "measured": false
+  }
+}

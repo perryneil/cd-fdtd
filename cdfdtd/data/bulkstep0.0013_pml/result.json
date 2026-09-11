@@ -1,0 +1,7 @@
+{
+  "step": 0.0013,
+  "shift_pm": 254.77809006316267,
+  "s_bulk": 195.9831462024328,
+  "resolved": true,
+  "verdict": "stable to 1.5% across thresholds"
+}

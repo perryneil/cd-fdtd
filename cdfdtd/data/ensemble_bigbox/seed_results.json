@@ -1,0 +1,242 @@
+[
+  {
+    "seed": 2104521678,
+    "resonance_um": 0.843819962525246,
+    "fwhm_um": 0.11688005345529506,
+    "mean_index_local": 1.3541997739325868,
+    "mean_index_box": 1.3499183151991239,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1615704261,
+    "resonance_um": 0.8444501269809178,
+    "fwhm_um": 0.11659700897883685,
+    "mean_index_local": 1.3558185009097978,
+    "mean_index_box": 1.3500492676293916,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 658306638,
+    "resonance_um": 0.8435046377221692,
+    "fwhm_um": 0.11585613591973076,
+    "mean_index_local": 1.3460780477233893,
+    "mean_index_box": 1.3499700319542498,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1072945168,
+    "resonance_um": 0.8443051318074262,
+    "fwhm_um": 0.1176857038581739,
+    "mean_index_local": 1.3543252718871581,
+    "mean_index_box": 1.3499580405586824,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1164543749,
+    "resonance_um": 0.8436788049645056,
+    "fwhm_um": 0.11684426314226226,
+    "mean_index_local": 1.3468192997001618,
+    "mean_index_box": 1.3500382610215784,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 921901717,
+    "resonance_um": 0.8448935583692213,
+    "fwhm_um": 0.1186366934207338,
+    "mean_index_local": 1.354913770071882,
+    "mean_index_box": 1.3499197704334813,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1704430933,
+    "resonance_um": 0.8442398015734405,
+    "fwhm_um": 0.11775436668331773,
+    "mean_index_local": 1.3484865302695992,
+    "mean_index_box": 1.349984825161994,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 965106114,
+    "resonance_um": 0.8452442015843271,
+    "fwhm_um": 0.11719840463747311,
+    "mean_index_local": 1.3625673306398862,
+    "mean_index_box": 1.3502739210368593,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 687729598,
+    "resonance_um": 0.8447520133453428,
+    "fwhm_um": 0.11637070133549743,
+    "mean_index_local": 1.3515225406102276,
+    "mean_index_box": 1.3500529331185285,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 78595689,
+    "resonance_um": 0.8456255786996641,
+    "fwhm_um": 0.11743006028247316,
+    "mean_index_local": 1.3605018568220348,
+    "mean_index_box": 1.35010761708539,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 829314815,
+    "resonance_um": 0.8444718900303372,
+    "fwhm_um": 0.11598429452559089,
+    "mean_index_local": 1.3514387394659997,
+    "mean_index_box": 1.3501242772035622,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 243243636,
+    "resonance_um": 0.8434655327726918,
+    "fwhm_um": 0.1156030186255197,
+    "mean_index_local": 1.3501408225538016,
+    "mean_index_box": 1.3499236741041456,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 834274627,
+    "resonance_um": 0.8444963596704462,
+    "fwhm_um": 0.11620792931463653,
+    "mean_index_local": 1.348578154725857,
+    "mean_index_box": 1.3498875684930873,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1657271367,
+    "resonance_um": 0.8440879844678773,
+    "fwhm_um": 0.11635886513466775,
+    "mean_index_local": 1.351487915068337,
+    "mean_index_box": 1.350034965378636,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1622299939,
+    "resonance_um": 0.843690794412043,
+    "fwhm_um": 0.11774254432086695,
+    "mean_index_local": 1.34959205362306,
+    "mean_index_box": 1.35002435819729,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1955768060,
+    "resonance_um": 0.8449495399712393,
+    "fwhm_um": 0.11885452283259068,
+    "mean_index_local": 1.3544774045404564,
+    "mean_index_box": 1.3500527720106106,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 2129507801,
+    "resonance_um": 0.8452162714115604,
+    "fwhm_um": 0.11808077086701974,
+    "mean_index_local": 1.3592148232679364,
+    "mean_index_box": 1.3500544812690567,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1911659420,
+    "resonance_um": 0.8438321491910711,
+    "fwhm_um": 0.11885476383864424,
+    "mean_index_local": 1.349898800187937,
+    "mean_index_box": 1.349938590304138,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 1474364817,
+    "resonance_um": 0.8446243008072701,
+    "fwhm_um": 0.11506183878941711,
+    "mean_index_local": 1.3568170485880802,
+    "mean_index_box": 1.3501247707892765,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 341611586,
+    "resonance_um": 0.8444958202113385,
+    "fwhm_um": 0.11785611552333974,
+    "mean_index_local": 1.3538412533876163,
+    "mean_index_box": 1.3497677127480259,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 953025717,
+    "resonance_um": 0.8449984723400379,
+    "fwhm_um": 0.11784605344088572,
+    "mean_index_local": 1.355112076007574,
+    "mean_index_box": 1.350130746154336,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 2055734281,
+    "resonance_um": 0.8446773748689296,
+    "fwhm_um": 0.11771201836644418,
+    "mean_index_local": 1.3502412940524369,
+    "mean_index_box": 1.350122322424068,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 308025863,
+    "resonance_um": 0.8434378817221845,
+    "fwhm_um": 0.11809982431890498,
+    "mean_index_local": 1.3484572052159427,
+    "mean_index_box": 1.3498788687021093,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  },
+  {
+    "seed": 302511912,
+    "resonance_um": 0.8440279980184372,
+    "fwhm_um": 0.11666170762499595,
+    "mean_index_local": 1.3511037119775502,
+    "mean_index_box": 1.350064863950797,
+    "decay_ok": true,
+    "fit_ok": true,
+    "note": ""
+  }
+]
